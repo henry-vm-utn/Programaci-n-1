@@ -1,2 +1,2 @@
-# Programaci-n-1
+# Programación 1
 Trabajos prácticos 
